@@ -1,4 +1,1 @@
-echo "www.ycoccc33.win" > CNAME
-git add CNAME
-git commit -m "Add CNAME for www.ycoccc33.win"
-git push origin main
+www.ycoccc33.win
